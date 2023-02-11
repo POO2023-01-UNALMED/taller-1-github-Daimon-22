@@ -1,3 +1,5 @@
-Elian David Velandia Riveros.
-20 años
-Aprender POO, así aumentar mi conocimientos en programación.
+ï»¿Elian David Velandia Riveros.
+20 aÃ±os
+Aprender POO, asÃ­ aumentar mi conocimientos en programaciÃ³n.
+Se pudo hacer un commit, ya que la carpeta ya tiene un archivo adrento.
+Es importante tener cuidado con modificar los archivos, ya que se puede crear inconvenientes o errores al momento de poner informaciÃ³n.
